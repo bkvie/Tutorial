@@ -2,6 +2,6 @@
 #include <string>
 using namespace std;
 int main() {
-	  cout << "Hello world!" << endl;
+	  co << "Hello world!" << endl; //wanted error
 	  return 0;
 }	
