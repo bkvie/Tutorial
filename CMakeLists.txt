@@ -1,4 +1,6 @@
 cmake_minimum_required (VERSION 2.6)
+find_package(OpenCV REQUIRED)
 project (Tutorial)
-add_executable(Tutorial helloworld.cpp)
-add_executable(Tutorial opencvtest.cpp)
+add_executable(helloworld helloworld.cpp)
+add_executable(opencvtest opencvtest.cpp)
+target_link_libraries(opencvtest ${OpenCV_LIBS})

@@ -1,0 +1,2 @@
+/Users/benedictkerres/Desktop/hci_praktikum/tutorial/Tutorial/CMakeFiles/helloworld.dir
+/Users/benedictkerres/Desktop/hci_praktikum/tutorial/Tutorial/CMakeFiles/opencvtest.dir
